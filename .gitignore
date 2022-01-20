@@ -1,0 +1,6 @@
+djangoenv
+todoapp-reactjs/node_modules
+TodoappDRF/api/__pycache__
+TodoappDRF/Todoapp/__pycache__
+TodoappDRF/api/migrations/
+TodoappDRF/db.sqlite3
